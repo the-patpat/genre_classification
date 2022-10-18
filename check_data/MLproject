@@ -1,4 +1,4 @@
-name: exercise_9
+name: check_data 
 conda_env: conda.yml
 
 entry_points:
